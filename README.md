@@ -197,3 +197,6 @@ This repository serves as the official landing page for Hearts Deluxe. The softw
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hearts Deluxe today!**
+
+---
+**Last updated:** 2026-11-07 21:42:52 UTC
