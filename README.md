@@ -199,4 +199,4 @@ This repository serves as the official landing page for Hearts Deluxe. The softw
 **Get the most recent version of Hearts Deluxe today!**
 
 ---
-**Last updated:** 2026-11-07 21:42:52 UTC
+**Last updated:** 2026-11-08 01:12:14 UTC
